@@ -9,7 +9,7 @@
 
 ## Usage example
 
-닷넷 프레임워크를 이용한 일반 계산기 가발
+닷넷 프레임워크를 이용한 일반 계산기 개발
 
 ## Development setup
 
